@@ -1,0 +1,13 @@
+
+  
+  .whole-form{
+    width: 800px; /* Set a fixed width */
+    height: 90vh; /* Set a fixed height */
+    background: white; /* Background for the form */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 20px; /* Padding for inner spacing */
+  }
+  
+ 
